@@ -1,0 +1,42 @@
+body{
+    background-image:url(../Photos/ChicagoClouds.jpg);
+    background-size: cover;
+}
+
+#aboutsection{
+    font-size: 18px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: darkgreen;
+    text-align: center;
+}
+
+.section1{
+    border: 5px;
+    border-style: solid;
+    border-color:darkslateblue;
+    margin: 15px;
+    background-color:darkgreen;
+    padding: 10px;   
+    width: 450px;
+}
+.section2{
+    border: 5px;
+    border-style: solid;
+    border-color:darkslateblue;
+    margin: 15px;
+    background-color:darkgreen;
+    padding: 10px;   
+    width: 450px;
+}
+
+.section1 h3{
+    text-align: center;
+    color: white;
+
+}
+
+.section2 h3{
+    text-align: center;
+    color: white;
+
+}
